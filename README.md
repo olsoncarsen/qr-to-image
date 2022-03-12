@@ -23,4 +23,5 @@ Its a PHP CLI  tool for Mac/Linux (tested and developed in MacOS)
 	$ php index.php example.pdf
 
 	```
+
 After that will be generated qrcode-***.ppm images with recognized qr codes.
